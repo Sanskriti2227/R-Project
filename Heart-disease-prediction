@@ -1,7 +1,3 @@
-###Min Jiang_Zheng_Li_Yundi Lu_Xun Pan
-###Final project
-###BU510.650 - Data Analytics, Spring 2019
-
 library(MASS)
 library(ISLR)
 library(plyr)
